@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: green;
+	font-size: 16px;
+}
+.navbar{
+	background-color: yellow;
+}
+.navbar-brand a{
+	color: green;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+.container-fluid button.navbar-toggler, .container-fluid .navbar-toggler-icon{
+	border: 1px solid green;
+}
+ul{
+	text-align: center;
+	font-size: 20px;
+	color: green;
+}
+li{
+	border: 1px solid black
+}
+h2{
+	color: yellow;
+	padding: 20px;
+}
+h4{
+	padding: 10px;
+}
+#singlecont{
+	background-color: yellow;
+	color: green;
+	height: 1000px;
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+
